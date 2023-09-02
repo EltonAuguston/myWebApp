@@ -1,5 +1,4 @@
 var builder = WebApplication.CreateBuilder(args);
-var change = "change1";
 
 // literally changed something right now
 
